@@ -1,3 +1,3 @@
 <h1>Character Counter</h1>
 
-<a href="">Click Here </a>
+<a href="https://sanketvyadav.github.io/charcounter/">Click Here </a>
