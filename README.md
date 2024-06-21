@@ -2,6 +2,4 @@
 
 <a href="https://sanketvyadav.github.io/charcounter/">Click Here </a>
 
-
-<img src="https://imgur.com/yPMTZhd">
 <img src="https://i.imgur.com/yPMTZhd.png">
